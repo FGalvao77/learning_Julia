@@ -1,5 +1,7 @@
 # My first codes in Julia
 
+# configuring the Atom IDE
+# https://www.youtube.com/watch?v=3BmOjdkvVbg
 
 # printing "Hello, World!"
 
